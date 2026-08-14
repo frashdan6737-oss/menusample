@@ -3,7 +3,7 @@ type LogoProps = {
 };
 
 /**
- * Aurora Café brand mark: a small steaming-cup glyph over a bold serif
+ * عالقد Café brand mark: a small steaming-cup glyph over a bold serif
  * wordmark with a letter-spaced "· CAFÉ ·" subtitle underneath.
  */
 export default function Logo({ className = "" }: LogoProps) {
@@ -23,7 +23,7 @@ export default function Logo({ className = "" }: LogoProps) {
         <path d="M5 9v6a3 3 0 0 0 3 3h4a3 3 0 0 0 3-3V9" />
       </svg>
       <h1 className="mt-1 font-serif text-[22px] font-semibold uppercase leading-none tracking-wide text-brand">
-        Aurora
+        عالقد
       </h1>
       <p className="mt-1 text-[9px] font-medium uppercase leading-none tracking-[0.35em] text-brand/70">
         · Café ·

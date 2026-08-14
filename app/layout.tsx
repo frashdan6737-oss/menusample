@@ -18,8 +18,8 @@ const workSans = Work_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Aurora Café — Digital Menu",
-  description: "Scan, browse, and order — the digital menu for Aurora Café.",
+  title: "عالقد Café — Digital Menu",
+  description: "Scan, browse, and order — the digital menu for عالقد Café.",
 };
 
 export const viewport: Viewport = {
